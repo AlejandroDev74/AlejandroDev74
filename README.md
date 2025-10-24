@@ -1,11 +1,6 @@
 <h1 align="center">Hola 👋, soy Alejandro Calderón</h1>
 <h3 align="justify">Desarrollador web fullstack y gestor de tecnología con un alto sentido de responsabilidad y pertenencia por la institución a la cual pertenezca, con buenas relaciones interpersonales, liderazgo y excelentes resultados en las actividades asignadas.</h3>
 
-<h3 align="center">Contáctame:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/alejandro-calderón-141716248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-calderón-141716248" height="30" width="50" /></a>
-</p>
-
 <h3 align="center">Lenguajes de desarrollo y herramientas: </h3>
 <p align="center">
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-line.svg" alt="laravel" width="50" height="50"/>  </a>
@@ -26,3 +21,8 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrodev74&show_icons=true&locale=en&layout=compact" alt="alejandrodev74" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrodev74&" alt="alejandrodev74" /></p>
+
+<h3 align="center">Contáctame:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/alejandro-calderón-141716248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-calderón-141716248" height="30" width="50" /></a>
+</p>
