@@ -1,13 +1,19 @@
 <h1 align="center">Hola 👋, soy Alejandro Calderón</h1>
 <h3 align="justify">Desarrollador web fullstack y gestor de tecnología con un alto sentido de responsabilidad y pertenencia por la institución a la cual pertenezca, con buenas relaciones interpersonales, liderazgo y excelentes resultados en las actividades asignadas.</h3>
 
+<style>
+  a {
+    padding: 5px; /* Añade 5px de espacio en todos los lados dentro del enlace */
+  }
+</style>
+
 <h3 align="center">Contáctame:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/alejandro-calderón-141716248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-calderón-141716248" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Lenguajes de desarrollo y herramientas: </h3>
-<p align="center" style="padding: 5px;">
+<p align="center">
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-line.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
