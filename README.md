@@ -22,7 +22,7 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrodev74&" alt="alejandrodev74" /></p>
 
-<h3 align="center">Contáctame:</h3>
+<h2 align="center">Contácto</h2>
 <p align="center">
 <a href="https://linkedin.com/in/alejandro-calderón-141716248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-calderón-141716248" height="30" width="50" /></a>
 </p>
