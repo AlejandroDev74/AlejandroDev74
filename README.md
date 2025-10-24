@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Alejandro Calderón</h1>
 <h3 align="justify">Desarrollador web fullstack y gestor de tecnología con un alto sentido de responsabilidad y pertenencia por la institución a la cual pertenezca, con buenas relaciones interpersonales, liderazgo y excelentes resultados en las actividades asignadas.</h3>
 
-<h3 align="center">Lenguajes de desarrollo y herramientas: </h3>
+<h2 align="center">Lenguajes de desarrollo y herramientas</h2>
 <p align="center">
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-line.svg" alt="laravel" width="50" height="50"/>  </a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/> </a>
