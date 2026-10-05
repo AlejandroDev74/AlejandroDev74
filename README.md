@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alejandro Calderón</h1>
-<h3 align="justify">Desarrollador web fullstack y gestor de tecnología con un alto sentido de responsabilidad y pertenencia por la institución a la cual pertenezca, con buenas relaciones interpersonales, liderazgo y excelentes resultados en las actividades asignadas.</h3>
+<h3 align="justify">Desarrollador web con más de 4 años de experiencia construyendo y manteniendo aplicaciones en Laravel/PHP en entornos institucionales, con dominio de bases de datos Oracle/MySQL, administración de servidores Linux y despliegues. Perfil full cycle: desarrollo, integración de APIs, soporte y operación.</h3>
 
 <h2 align="center">Lenguajes de desarrollo y herramientas</h2>
 <p align="center">
